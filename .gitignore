@@ -1,1 +1,3 @@
 .env
+/notifications/notes
+/notifications/config.json
